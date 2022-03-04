@@ -1,7 +1,7 @@
 
 # GraphQL Server - Container - AWS
 
-Boilerplate [Container](https://opencontainers.org/) implementation of [GraphQL](https://graphql.org/) server in [Python](https://www.python.org/) on [AWS](https://aws.amazon.com/) using [AWS ECS](https://aws.amazon.com/ecs/) and [AWS Fargate](https://aws.amazon.com/fargate/) 
+Boilerplate [Serverless](https://en.wikipedia.org/wiki/Serverless_computing) [Container](https://opencontainers.org/) implementation of [GraphQL](https://graphql.org/) server in [Python](https://www.python.org/) using [AWS ECS](https://aws.amazon.com/ecs/) and [AWS Fargate](https://aws.amazon.com/fargate/) 
 
 ## Features
 - Containerized
